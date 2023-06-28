@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sufficientForecasting"]
 	path = sufficientForecasting
 	url = https://github.com/jingfu1224/sufficientforecasting
-	shallow = true
-	registered = true
